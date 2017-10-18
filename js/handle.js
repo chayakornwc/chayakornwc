@@ -1,3 +1,4 @@
+
 var $passwordConfirmation = $('#signup-form').find('#passwordcf')
 var $passwordValidation = $('#signup-form').find('#password');
 var $email = $('#signup-form').find('#email');

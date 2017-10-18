@@ -11,6 +11,7 @@
         <h3>ยินดีต้อนรับเข้าสู่ระบบ</h3>
         <strong>สารสนเทศการอบรม ศูนย์คอมพิวเตอร์มหาวิทยาลัยราชภัฏลำปาง<strong>
       </div>
+      <div class="login_form_main">
       <form id="signin-form" class="material lf" >
             <div class="lf-field username">
               <div class="lf input-field">
@@ -35,8 +36,13 @@
                   <span class="material-bar">  </span>
               </div>
             </div>
+            <button class="dbutton signin-btn"  type="submit" >ลงชื่อเข้าใช้ </button>
       </form>
-
+    </div>
+          <div class="more-item">
+            <a href="#forgetpassword">ลืมรหัสผ่าน</a>
+            <a href="#forgetpassword">ผู้มาเยือน</a>
+          </div>
   </div>
 
   </div>

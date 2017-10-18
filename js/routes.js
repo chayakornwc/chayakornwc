@@ -15,8 +15,10 @@
             })
 
             // route for the contact page
-            .when('/contact', {
-                templateUrl : 'pages/contact.html'
+            .when('/course', {
+                templateUrl : './pages/course.php'
 
-            });
+            })
     });
+
+    
