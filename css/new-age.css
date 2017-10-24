@@ -537,11 +537,11 @@ footer {
     border-color: #fdcc52;
     background-color: #fdcc52; }
 
-.btn {
+/*.btn {
   border-radius: 300px;
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
   letter-spacing: 2px;
-  text-transform: uppercase; }
+  text-transform: uppercase; }*/
 
 .btn-xl {
   font-size: 11px;
