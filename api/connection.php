@@ -1,11 +1,11 @@
 <?php
-class  globalMysql {
+class  mysqlglobals {
    public function mysqlCon(){
      $usr = 'root';
      $pwd ='';
-     $db = 'tr_manager2017';
+     $db = 'lpruit';
      $pdo = new PDO('mysql:host=localhost;dbname='.$db, $usr, $pwd);
-     $pdo -> exec("SET NAMES UTF-8");
+     $pdo -> exec("set names utf8");
      return $pdo;
    }
 }

@@ -17,7 +17,8 @@
             // route for the contact page
             .when('/course', {
                 templateUrl : './pages/course.php',
-                controller: 'courseController'
+                controller: 'courseController',
 
             })
+            
     });

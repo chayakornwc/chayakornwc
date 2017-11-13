@@ -1,3 +1,10 @@
+.course_or{
+  margin-top: 16px;
+}
+.display_courseOR{
+  margin-left: 5px;
+  color: #82949e;
+}
 .course-item-list div{
 align-self: center;
 }

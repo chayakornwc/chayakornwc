@@ -122,7 +122,7 @@
               <div class="res"></div>
             </div>
           </div>
-          <button class="lf-submit btn btn-warning btn-block"  type="submit" >ลงทะเบียน</button>
+          <button class="lf-submit dbutton btn-block"  type="submit" >ลงทะเบียน</button>
       </form>
                   </div>
                 </div>
